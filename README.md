@@ -83,8 +83,6 @@ artificial-intelligence-projects/
 - **Tools**: Teachable Machine (online), Google Colab/Jupyter Notebook (.ipynb) for data tasks.
 - **Git**: For version control.
 
-## 📝 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
 
 *Created for CMPG 313 – Artificial Intelligence, North-West University*
